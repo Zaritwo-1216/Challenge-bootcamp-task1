@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family:"OpenSans";
+    font-weight: 700;
+    src: url("Task1/assets/fonts/OpenSans-Bold.ttf") format("ttf");
+   
+}
+
+@font-face {
+    font-family:"OpenSans";
+    font-weight: 400;
+    src: url("Task1/assets/fonts/OpenSans-Regular.ttf") format("ttf");
+   
+}
+body{
+    font-family: "OpenSans";
+}
